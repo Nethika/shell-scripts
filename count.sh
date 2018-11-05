@@ -1,5 +1,5 @@
 #!/bin/bash
-cd ./vetdata
+cd ./data_dir
 count=0
 for i in *.mp3; do
     count=$((count+1))
